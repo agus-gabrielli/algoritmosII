@@ -1,0 +1,23 @@
+// int main(){
+//     prueba substr
+//     char *cadena1 = "";
+//     printf("%s", cadena);
+//     char *cadenita = substr(cadena1, 7);
+//     printf("%s/n", cadenita);
+//     free(cadenita);
+    
+
+//prueba split + join
+//     char *cadena2 = ",,,,,,,,,,,";
+//     printf("Cadena a splitear: %s\n", cadena2);
+//     char **cadenas = split(cadena2, ',');
+//     for(int i=0; cadenas[i]; i++){
+//         printf("Cadena[%d]: %s\n", i, cadenas[i]);
+//     }
+//     char *cadena_nueva = join(cadenas, ';');
+//     printf("Cadena joineada: %s\n", cadena_nueva);
+//     free(cadena_nueva); 
+//     free_strv(cadenas);
+
+//     return 0;
+// }
